@@ -27,4 +27,4 @@
 ___
 
 <br/>
-<img align="left" alt="geistermeister's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geistermeister&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="geistermeister's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
