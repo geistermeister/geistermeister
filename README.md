@@ -23,8 +23,14 @@
 
 <br/>
 <br/>
+<br/>
 
 ___
 
 <br/>
-<img align="left" alt="geistermeister's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+
+![Ageistermeisters's github stats](https://github-readme-stats.vercel.app/api?username=geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geistermeister&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
