@@ -29,8 +29,8 @@ ___
 
 <br/>
 
-![Ageistermeisters's github stats](https://github-readme-stats.vercel.app/api?username=geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula)
+![Ageistermeisters's github stats](https://github-readme-stats.vercel.app/api?username=geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geistermeister&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geistermeister&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
