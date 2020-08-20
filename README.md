@@ -29,7 +29,7 @@ ___
 
 <br/>
 
-![Ageistermeisters's github stats](https://github-readme-stats.vercel.app/api?username=geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true)
+![Geistermeisters's github stats](https://github-readme-stats.vercel.app/api?username=geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true)
 
 <br/>
 
