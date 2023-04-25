@@ -21,16 +21,3 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br/>
-<br/>
-<br/>
-
-___
-
-<br/>
-
-![Geistermeisters's github stats](https://github-readme-stats.vercel.app/api?username=geistermeister&count_private=true&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true)
-
-<br/>
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geistermeister&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
